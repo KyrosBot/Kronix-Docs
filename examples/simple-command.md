@@ -84,5 +84,5 @@ client.onListenerEvent("message", function(message) {
 
 Here is what your bot _should_ be doing after this example:
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
