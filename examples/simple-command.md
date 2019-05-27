@@ -82,3 +82,7 @@ client.onListenerEvent("message", function(message) {
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
+Here is what your bot _should_ be doing after this example:
+
+![](../.gitbook/assets/image.png)
+
