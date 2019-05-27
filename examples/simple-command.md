@@ -34,6 +34,10 @@ const client = new Kronix.Session({
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
+As noted on the welcome page;
+
+![](../.gitbook/assets/image%20%282%29.png)
+
 Now, we're going to be added a message listener.
 
 {% code-tabs %}
