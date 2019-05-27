@@ -1,7 +1,7 @@
 # Welcome
 
 {% hint style="info" %}
-For better performance, you'll only find information about the stable branch of the API.
+For better performance, you'll only find information about the stable branch of the API. Also, this API is currently very buggy and all of the bugs will be fixed in version `1.0.1`
 {% endhint %}
 
 ## Installation
